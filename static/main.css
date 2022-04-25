@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+
+}
+
+
+body {
+    background: #b5f2ac;
+}
+
+h1 {
+    margin: 20px; 
+    padding: 20px;
+    border: solid;
+    border-color: rgb(152, 202, 152);
+    text-align: center;
+}
+h2 {
+    color:rgb(152, 202, 152)
+}
+
+#content {
+    margin: 50px 150px 50px 150px;
+    padding: 15px;
+    background-color: white;
+}
